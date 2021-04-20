@@ -121,7 +121,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 @media (max-width: 767px) {
     .s-head {
-        width: 500px;
+        width: 750px;
         height: 100%;
     }
 }
