@@ -121,7 +121,11 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 @media (max-width: 767px) {
     .s-head {
+<<<<<<< HEAD
         width: 700px;
+=======
+        width: 750px;
+>>>>>>> 3ca80617d20d5c564319692a6b10886c6399815d
         height: 100%;
     }
 }
